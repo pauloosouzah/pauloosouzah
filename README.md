@@ -1,9 +1,14 @@
 ### JOÃO PAULO HENRIQUE
 
-Systems Analysis and Development student. He has experience with web-oriented application and backend development. Has experience in analyzing and solving complex problems with SQL, JavaScript, PHP, Pascal, VBA and WebScraping. Actively working as an analyst in a private company AlmaViva do Brasil, developing applications for a Brazilian telecommunication client. 👋
+Student of Systems Analysis and Development. 
+Has experience with web-oriented applications and Back-end development.
+Working as JR Analyst in the telecommunications market indicators company.
+Focusing on problem solving and analysis of SQL, JavaScript, PHP, Delphi, VBA and JAVA languages.
+Also possessing knowledge in Data Center servers and network systems.
 
 ### TECHNOLOGIES USED
 
+[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![SQL SERVER](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]()
