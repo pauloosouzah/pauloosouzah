@@ -3,7 +3,7 @@
 Student of Systems Analysis and Development. 
 Has experience with web-oriented applications and Back-end development.
 Working as JR Analyst in the telecommunications market indicators company.
-Focusing on problem solving and analysis of SQL, JavaScript, PHP, Delphi, VBA and JAVA languages.
+Focusing on problem solving and analysis of SQL, PHP, JavaScript, Delphi, VBA and JAVA languages.
 Also possessing knowledge in Data Center servers and network systems.
 
 ### TECHNOLOGIES USED
